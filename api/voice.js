@@ -15,7 +15,7 @@ export default function handler() {
   return new Response(
     `<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Speak voice="WOMAN">Test OK</Speak>
+  <Speak voice="WOMAN">Step in Integrated report has failed please check Power bi dashboard and reply on Mail</Speak>
 </Response>`,
     {
       headers: {
